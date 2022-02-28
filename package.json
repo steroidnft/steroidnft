@@ -1,0 +1,27 @@
+{
+  "name": "steroidnft",
+  "version": "0.0.1",
+  "description": "An upgradeable and compositable NFT project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steroidnft/steroidnft.git"
+  },
+  "keywords": [
+    "web3",
+    "nft",
+    "solidity"
+  ],
+  "author": "Michael Vogt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steroidnft/steroidnft/issues"
+  },
+  "homepage": "https://github.com/steroidnft/steroidnft#readme",
+  "devDependencies": {
+    "hardhat": "^2.8.4"
+  }
+}
