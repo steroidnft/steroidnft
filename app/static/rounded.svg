@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <style>
+        #bg_vv {
+        opacity: 0.2;
+        fill: rgba(58,25,72,1);
+        }
+    </style>
+    <rect id="bg_vv" rx="18" ry="18" x="0" y="0" width="200" height="36">
+    </rect>
+</svg>
